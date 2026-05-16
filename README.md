@@ -1,6 +1,12 @@
-# just-a-expeses-tracker-
-*it is a begginer python done by me 
-*it tarck your expense 
-*and save to csv file 
-*it can add the expense 
+# Expense Tracker
 
+A beginner Python project built to practice file handling.
+
+## Features
+- Add expenses by category
+- Save to CSV file
+- View all expenses
+- Calculate total
+
+## How to run
+python expenses.py
